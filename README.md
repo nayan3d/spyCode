@@ -1,4 +1,6 @@
 # spyCode
+
+
 STR -- -1,3,-4,5,1,-6,2,1,
 Count is 8
 Array numbers:
